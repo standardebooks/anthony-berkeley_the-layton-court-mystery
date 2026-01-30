@@ -36,6 +36,9 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Roger Sheringham</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">Two friends become amateur sleuths when a suicide during a summer retreat leaves too many questions unanswered.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The Layton Court Mystery introduces best friends Roger Sheringham and Alexander (Alec) Grierson, who join a distinguished roster of London society guests at the country estate of wealthy bachelor Victor Stanworth. The retreat takes a grim turn when Stanworth is discovered dead in his study, with a gunshot wound to the head. At first glance, the scene suggests suicide: the study is locked from the inside, there are no signs of forced entry, and nothing unusual was reported the night before. Yet Roger, ever suspicious of neat explanations, senses inconsistencies everywhere he looks. Convinced that something is amiss, he recruits Alec to help him search for clues.&lt;/p&gt;
