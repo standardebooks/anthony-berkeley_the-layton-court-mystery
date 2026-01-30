@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anthony-berkeley/the-layton-court-mystery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-30T19:20:08Z</dc:date>
+		<meta property="dcterms:modified">2026-01-30T19:20:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,17 +42,15 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">Two friends become amateur sleuths when a suicide during a summer retreat leaves too many questions unanswered.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Layton Court Mystery introduces best friends Roger Sheringham and Alexander (Alec) Grierson, who join a distinguished roster of London society guests at the country estate of wealthy bachelor Victor Stanworth. The retreat takes a grim turn when Stanworth is discovered dead in his study, with a gunshot wound to the head. At first glance, the scene suggests suicide: the study is locked from the inside, there are no signs of forced entry, and nothing unusual was reported the night before. Yet Roger, ever suspicious of neat explanations, senses inconsistencies everywhere he looks. Convinced that something is amiss, he recruits Alec to help him search for clues.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-berkeley"&gt;Anthony Berkeley&lt;/a&gt; originally published &lt;i&gt;The Layton Court Mystery&lt;/i&gt; anonymously; it became a modest success and launched Berkeley’s career. More importantly, it introduced Roger Sheringham, the amateur sleuth who would become Berkeley’s signature creation. Sheringham went on to appear in nearly a dozen novels, as well as a stage play, limited run stories, and even a radio drama. His popularity helped cement Berkeley’s place among the notable writers of the Golden Age of detective fiction.&lt;/p&gt;
-			&lt;p&gt;Roger Sheringham stands comfortably alongside the era’s great fictional detectives. He models himsesef after Sherlock Holmes, adopting a flair for deduction and a collection of eccentric habits. At the same time, he shares traits with Agatha Christie’s Hercule Poirot—an attention to detail, a distinctive physical presence, and a certain attitude toward justice. This overlap is hardly accidental: Berkeley was a friend of Christie’s and a founding member of the Detection Club, the celebrated society of mystery writers to which Christie also belonged.&lt;/p&gt;
-			&lt;p&gt;Readers new to Berkeley may find The Layton Court Mystery refreshingly brisk compared to many of its contemporaries. The setting functions primarily as a backdrop, established efficiently so the plot can take center stage. Dialogue and monologue move quickly, with little wasted motion once conversations begin. Berkeley’s most delightful innovation, however, is his use of humor. Rather than presenting Sheringham as an infallible genius, he allows his protagonist to stumble—often spectacularly. Roger’s ego and overconfidence frequently lead him astray, and Alec’s occasioned exasperation towards Roger’s idiosyncrasies provides a perfect counterbalance. Their playful habit of calling each other “Roger Holmes” and “Alec Watson” underscores a self aware charm hardly seen in other mysteries of the time.&lt;/p&gt;
-			&lt;p&gt;Berkeley set out to craft a mystery led not by a flawless mastermind but by a believable, fallible human being—someone who makes mistakes, learns from them, and maintains a sense of fun even in serious circumstances. The Layton Court Mystery succeeds beautifully on that front, offering a lively blend of intrigue, humor, and character driven charm.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Layton Court Mystery&lt;/i&gt; introduces best friends &lt;a href="standardebooks.org/collections/roger-sheringham"&gt;Roger Sheringham&lt;/a&gt; and Alexander “Alec” Grierson, who join a distinguished roster of London society guests at the country estate of wealthy bachelor Victor Stanworth. The retreat takes a grim turn when Stanworth is discovered dead in his study with a gunshot wound to the head. At first glance, the scene suggests suicide: the study is locked from the inside, there are no signs of forced entry, and nothing unusual was reported the night before. Yet Roger, ever suspicious of neat explanations, sees inconsistencies everywhere he looks. Convinced that something is amiss, he recruits Alec to help him search for clues.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-berkeley"&gt;Anthony Berkeley&lt;/a&gt; originally published &lt;i&gt;The Layton Court Mystery&lt;/i&gt; anonymously; its modest success launched Berkeley’s career. More importantly, it introduced Roger Sheringham, the amateur sleuth who would become Berkeley’s signature creation.&lt;/p&gt;
+			&lt;p&gt;Readers new to Berkeley may find &lt;i&gt;The Layton Court Mystery&lt;/i&gt; refreshingly brisk compared to many of its contemporaries. The setting functions primarily as a backdrop, established efficiently so the plot can take center stage; the dialogue moves quickly. Berkeley’s most delightful innovation, however, is his use of humor. Rather than presenting Sheringham as an infallible genius, he allows his protagonist to stumble—often spectacularly. Roger’s ego and overconfidence frequently lead him astray, and Alec’s occasioned exasperation towards Roger’s idiosyncrasies provides a perfect counterbalance. Their playful habit of calling each other “Roger Holmes” and “Alec Watson” underscores a self-aware charm hardly seen in other mysteries of the time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72883</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102931678</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">73127</meta>
+		<meta property="se:reading-ease.flesch">76.32</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-berkeley_the-layton-court-mystery</meta>
 		<dc:creator id="author">Anthony Berkeley</dc:creator>
 		<meta property="file-as" refines="#author">Berkeley, Anthony</meta>
@@ -72,6 +70,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
