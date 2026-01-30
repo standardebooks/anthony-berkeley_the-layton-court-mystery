@@ -7,6 +7,14 @@
 	margin-bottom: 1em;
 }
 
+#dedication header{
+	margin-top: 3em;
+}
+
 #dedication header b{
 	font-size: larger;
+}
+
+#dedication > p:first-of-type + p{
+	text-indent: 0;
 }
