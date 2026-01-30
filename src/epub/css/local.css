@@ -18,3 +18,7 @@
 #dedication > p:first-of-type + p{
 	text-indent: 0;
 }
+
+#chapter-15 blockquote > p{
+	font-style: italic;
+}
